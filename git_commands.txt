@@ -1,0 +1,15 @@
+
+     git init
+     git status
+     git status
+      git add testing.py
+     git rm --cache
+    git status
+    git commit -m "added test
+     rm testing.py
+     git status
+    git restore testing.py
+     git status
+    git init
+    git status
+  
